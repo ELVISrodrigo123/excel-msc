@@ -23,9 +23,9 @@ interface Props {
 const drawerWidth = 240;
 const navItems = [
   { name: 'Home', href: '/' },
-  { name: 'About', href: '/tour/About' },
-  { name: 'Explorer', href: '/tour/Explorer' },
-  { name: 'Contact', href: '/tour/Contact' },
+  { name: 'Analisis de riesgo', href: '/dashboards/operador' },
+/*   { name: 'Explorer', href: '/tour/Explorer' },
+  { name: 'Contact', href: '/tour/Contact' }, */
   { name: 'Sign In', href: '/auth', isButton: true }, // "Sign In" será un botón
 ];
 
